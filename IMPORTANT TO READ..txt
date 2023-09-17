@@ -2,7 +2,7 @@ Important to read.
 
 To run the source code you have to download the weight at this link https://github.com/ultralytics/yolov5
 
-The weight that needs to be download
+The weight that needs to be downloaded is
 1. yolov5n.pt
 2. yolov5s.pt
 3. yolov556.pt
